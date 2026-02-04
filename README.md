@@ -1,5 +1,11 @@
 ## Linux Computer Info script
 
+Linux script
+
+<!-- buttons -->
+
+<!-- endbuttons -->
+
 Copy and run on shell, no privileged access required.
 
 ```
