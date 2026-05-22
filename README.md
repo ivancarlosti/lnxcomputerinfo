@@ -1,4 +1,4 @@
-# Linux Computer Info (`lnxcomputerinfo`)
+# Linux Computer Info
 
 A lightweight, zero-installation bash script that instantly displays a comprehensive summary of your Linux system's current status, resource consumption, and network information.
 
@@ -22,8 +22,9 @@ A lightweight, zero-installation bash script that instantly displays a comprehen
 
 You can run this script entirely in memory without downloading or saving any files to your disk. Simply copy and paste the following command into your terminal:
 
-```bash
-curl -sSL [https://icc.gg/lnxcomputerinfo](https://icc.gg/lnxcomputerinfo) | bash
+```
+curl -sSL https://icc.gg/lnxcomputerinfo | bash
+```
 
 <!-- footer -->
 ---
