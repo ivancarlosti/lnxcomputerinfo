@@ -21,7 +21,10 @@ Linux script
 Copy and run on shell, no privileged access required.
 
 ```
-curl -sSL https://raw.githubusercontent.com/ivancarlosti/lnxcomputerinfo/main/info.sh -o info.sh && chmod +x info.sh && ./info.sh
+curl -sSL https://raw.githubusercontent.com/ivancarlosti/lnxcomputerinfo/main/info.sh -o info.sh \
+chmod +x info.sh \
+./info.sh \
+rm info.sh
 ````
 
 <!-- footer -->
